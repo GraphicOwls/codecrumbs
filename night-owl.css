@@ -145,6 +145,7 @@ SOFTWARE.
 
 .hljs-selector-class {
   color: #addb67;
+  font-style: italic;
 }
 
 .hljs-selector-attr,
